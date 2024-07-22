@@ -1,0 +1,25 @@
+nav {
+    background-color: #7a89ae;
+    color: white;
+  }
+  
+  .title {
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu {
+    display: none;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: white;
+  }
+  
